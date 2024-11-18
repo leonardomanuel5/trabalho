@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="button-container">
+        <button type="button" class="btn btn-primary">
+            <a href="index.html">Inicial</a>    
+            <button type="button" class="btn btn-primary">
+                <a href="Saas.html">Saas</a>
+                <button type="button" class="btn btn-primary">
+                    <a href="Paas.html">Paas</a>
+                    <button type="button" class="btn btn-primary">
+                        <a href="iaas.html">Iaas</a>
+            </button>
+          
+    </div>
+
+
+    <img class="ima" src="images.png">
+
+
+
+    <h1>PaaS, ou Platform as a Service (Plataforma como Serviço), é um modelo de serviço em nuvem que fornece uma plataforma completa para o desenvolvimento, execução e gerenciamento 
+        de aplicações, sem a complexidade de gerenciar a infraestrutura subjacente. Com o PaaS, os desenvolvedores têm acesso a um ambiente com 
+        ferramentas e frameworks para criar, testar e implantar aplicações rapidamente.</h1>
+
+
+
+
+         <footer>
+            <p>&copy; 2024 - Todos os direitos reservados</p>
+            <nav>
+                <ul>
+                    <li><a href="#">telefone</a></li>
+                    <li><a href="#">email</a></li>
+                    <li><a href="#">Sobre nós</a></li>
+                    
+                </ul>
+            </nav>
+        </footer>
+</body>
+</html>
