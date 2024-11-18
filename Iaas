@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="button-container">
+        <button type="button" class="btn btn-primary">
+            <a href="index.html">Inicial</a>    
+            <button type="button" class="btn btn-primary">
+                <a href="Saas.html">Saas</a>
+                <button type="button" class="btn btn-primary">
+                    <a href="Paas.html">Paas</a>
+                    <button type="button" class="btn btn-primary">
+                        <a href="iaas.html">Iaas</a>
+            </button>
+          
+    </div>
+
+
+    <img class="ima" src="imagesiaas.png">
+
+
+
+    <h1>IaaS (Infrastructure as a Service) é um modelo de computação em nuvem que permite às empresas alugar recursos de infraestrutura, como servidores, armazenamento e redes, sem precisar se preocupar com a gestão de hardware físico. Em vez de investir em servidores físicos e outros equipamentos, as organizações podem acessar essas capacidades de forma flexível e escalável pela internet, pagando apenas pelo que usam.
+
+        Com o IaaS, as empresas podem aumentar ou reduzir rapidamente os recursos conforme suas necessidades, o que proporciona uma grande 
+        economia de custos e maior agilidade. Esse modelo é oferecido por 
+        grandes provedores como AWS, Microsoft Azure, Google Cloud e IBM Cloud. A principal vantagem do IaaS é a eliminação de custos com hardware e a 
+        capacidade de escalar a infraestrutura de forma rápida, o que é ideal 
+        para empresas que buscam eficiência e flexibilidade em suas operações de TI.</h1>
+
+
+
+
+         <footer>
+            <p>&copy; 2024 - Todos os direitos reservados</p>
+            <nav>
+                <ul>
+                    <li><a href="#">telefone</a></li>
+                    <li><a href="#">email</a></li>
+                    <li><a href="#">Sobre nós</a></li>
+                    
+                </ul>
+            </nav>
+        </footer>
+</body>
+</html>
