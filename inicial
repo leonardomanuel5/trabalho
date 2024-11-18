@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="button-container">
+        <button type="button" class="btn btn-primary">
+            <a href="index .html">Inicial</a>    
+            <button type="button" class="btn btn-primary">
+                <a href="Saas.html">Saas</a>
+                <button type="button" class="btn btn-primary">
+                    <a href="Paas.html">Paas</a>
+                    <button type="button" class="btn btn-primary">
+                        <a href="iaas.html">Iaas</a>
+
+            </button>
+          
+   
+
+    </div>
+
+
+    <img class="oi" src="oipme.jpg">
+
+
+
+    <h1>A computação em nuvem oferece três modelos principais de serviço: **IaaS**, **PaaS** e **SaaS**. Cada um fornece um nível diferente de controle e abstração.
+
+        No **IaaS (Infraestrutura como Serviço)**, você recebe infraestrutura de TI básica, como servidores, armazenamento e redes, mas é responsável pela instalação e gestão de sistemas operacionais e aplicativos. Esse modelo oferece maior controle e flexibilidade, sendo ideal para quem precisa personalizar a infraestrutura, como empresas que executam grandes aplicativos ou têm requisitos específicos de servidores.
+        
+        O **PaaS (Plataforma como Serviço)** oferece uma plataforma completa para o desenvolvimento de aplicativos, sem precisar se preocupar com a gestão da infraestrutura ou sistema operacional. O provedor de nuvem cuida desses aspectos, permitindo que você foque apenas no código e no desenvolvimento. É a escolha ideal para desenvolvedores que desejam construir e testar aplicativos rapidamente, sem se preocupar com a infraestrutura subjacente.
+        
+        Já o **SaaS (Software como Serviço)** fornece aplicativos prontos para uso, acessíveis pela internet, sem necessidade de instalação ou manutenção. O provedor cuida de tudo, desde a infraestrutura até as atualizações. Exemplos incluem ferramentas de produtividade como o Google Workspace ou Microsoft 365. Este modelo é ideal para usuários que apenas precisam usar o software, sem se preocupar com o gerenciamento da aplicação ou infraestrutura.
+        
+        Cada modelo atende a diferentes necessidades: o IaaS oferece maior controle sobre a infraestrutura, o PaaS facilita o desenvolvimento de aplicativos e o SaaS oferece soluções prontas para o usuário final.</h1>
+
+
+
+
+         <footer>
+            <p>&copy; 2024 - Todos os direitos reservados</p>
+            <nav>
+                <ul>
+                    <li><a href="#">telefone</a></li>
+                    <li><a href="#">email</a></li>
+                    <li><a href="#">Sobre nós</a></li>
+                    
+                </ul>
+            </nav>
+        </footer>
+</body>
+</html>
